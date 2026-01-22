@@ -1955,6 +1955,8 @@
 104.25.158.178 finland10198.discord.media
 104.25.158.178 finland10199.discord.media
 
+91.202.4.58 attachments.f95zone.to
+
 # Блокировка рекламы и трекеров на основе следующих списков:
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_66.txt

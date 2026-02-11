@@ -1,3 +1,4 @@
 91.202.4.58 attachments.f95zone.to
 172.66.0.227 x.com
 144.31.14.104 api.github.com
+54.229.95.116 overwatch.blizzard.com
